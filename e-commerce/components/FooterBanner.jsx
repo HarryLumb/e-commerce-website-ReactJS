@@ -6,4 +6,4 @@ const FooterBanner = () => {
   )
 }
 
-export default FooterBanner 
+export default FooterBanner  
